@@ -1,0 +1,3 @@
+obj-m += driver_button.o
+obj-m += driver_led.o
+CC = arm-fullhanv3-linux-uclibcgnueabi-gcc
